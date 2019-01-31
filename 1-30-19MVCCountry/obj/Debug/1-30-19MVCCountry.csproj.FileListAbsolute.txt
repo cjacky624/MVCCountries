@@ -1,0 +1,6 @@
+c:\users\jc\documents\visual studio 2017\Projects\1-30-19MVCCountry\1-30-19MVCCountry\obj\Debug\1-30-19MVCCountry.csprojResolveAssemblyReference.cache
+c:\users\jc\documents\visual studio 2017\Projects\1-30-19MVCCountry\1-30-19MVCCountry\bin\Debug\1-30-19MVCCountry.exe.config
+c:\users\jc\documents\visual studio 2017\Projects\1-30-19MVCCountry\1-30-19MVCCountry\bin\Debug\1-30-19MVCCountry.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-30-19MVCCountry\1-30-19MVCCountry\bin\Debug\1-30-19MVCCountry.pdb
+c:\users\jc\documents\visual studio 2017\Projects\1-30-19MVCCountry\1-30-19MVCCountry\obj\Debug\1-30-19MVCCountry.exe
+c:\users\jc\documents\visual studio 2017\Projects\1-30-19MVCCountry\1-30-19MVCCountry\obj\Debug\1-30-19MVCCountry.pdb
